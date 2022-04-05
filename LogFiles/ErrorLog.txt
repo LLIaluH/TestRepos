@@ -1,0 +1,202 @@
+20.05.2021 10:58:58 | PR Get(OracleInternal.ConnectionPool.ConnectionString, Boolean, Oracle.ManagedDataAccess.Client.OracleConnection, System.String, Boolean) Connection request timed out
+
+20.05.2021 11:06:22 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:06:42 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:27:54 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:27:55 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:27:56 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:34:16 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:42:44 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 11:42:52 | Void ReceiveExecuteResponse(OracleInternal.TTC.Accessors.Accessor[] ByRef, OracleInternal.TTC.Accessors.Accessor[], Boolean, OracleInternal.Common.SQLMetaData ByRef, OracleInternal.Common.SqlStatementType, Int64, Int32, Int32 ByRef, Int64 ByRef, Int32, Int64, Int64[], Boolean, Int32, OracleInternal.ServiceObjects.DataUnmarshaller ByRef, MarshalBindParameterValueHelper ByRef, Int64[] ByRef, Boolean, Boolean ByRef, System.Collections.Generic.List`1[OracleInternal.TTC.Accessors.TTCResultSet] ByRef, Boolean) TTC Error
+
+20.05.2021 12:05:49 | TTC Error
+
+20.05.2021 12:06:00 | TTC Error
+
+20.05.2021 12:13:51 | TTC Error
+
+20.05.2021 12:13:52 | TTC Error
+
+20.05.2021 12:13:53 | TTC Error
+
+20.05.2021 12:13:53 | TTC Error
+
+20.05.2021 12:13:54 | TTC Error
+
+20.05.2021 12:13:54 | TTC Error
+
+20.05.2021 12:13:54 | TTC Error
+
+20.05.2021 12:14:27 | ORA-01002: fetch out of sequence
+
+20.05.2021 12:14:49 | TTC Error
+
+20.05.2021 12:14:50 | TTC Error
+
+20.05.2021 12:14:50 | TTC Error
+
+20.05.2021 12:14:50 | TTC Error
+
+20.05.2021 12:14:51 | TTC Error
+
+20.05.2021 12:14:51 | TTC Error
+
+20.05.2021 12:14:52 | TTC Error
+
+20.05.2021 12:14:52 | TTC Error
+
+20.05.2021 12:14:52 | TTC Error
+
+20.05.2021 12:14:52 | TTC Error
+
+20.05.2021 12:14:52 | TTC Error
+
+20.05.2021 12:14:52 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:53 | TTC Error
+
+20.05.2021 12:14:54 | TTC Error
+
+20.05.2021 12:14:54 | TTC Error
+
+20.05.2021 12:14:54 | TTC Error
+
+20.05.2021 12:14:54 | TTC Error
+
+20.05.2021 12:14:55 | TTC Error
+
+20.05.2021 12:14:55 | TTC Error
+
+20.05.2021 12:14:55 | TTC Error
+
+20.05.2021 12:14:55 | TTC Error
+
+20.05.2021 12:14:55 | TTC Error
+
+20.05.2021 12:14:56 | TTC Error
+
+20.05.2021 12:14:56 | TTC Error
+
+20.05.2021 12:14:56 | TTC Error
+
+20.05.2021 12:14:56 | TTC Error
+
+20.05.2021 12:14:56 | TTC Error
+
+20.05.2021 12:14:57 | TTC Error
+
+20.05.2021 12:14:57 | TTC Error
+
+20.05.2021 12:14:57 | TTC Error
+
+20.05.2021 12:14:57 | TTC Error
+
+20.05.2021 12:14:58 | TTC Error
+
+20.05.2021 12:14:58 | TTC Error
+
+20.05.2021 12:14:58 | TTC Error
+
+20.05.2021 12:14:58 | TTC Error
+
+20.05.2021 12:14:58 | TTC Error
+
+20.05.2021 12:14:59 | TTC Error
+
+20.05.2021 12:14:59 | TTC Error
+
+20.05.2021 12:14:59 | TTC Error
+
+20.05.2021 12:29:57 | TTC Error
+
+20.05.2021 12:31:12 | TTC Error
+
+20.05.2021 12:33:48 | TTC Error
+
+07.10.2021 14:29:43 | Invalid operation on a closed object
+
+07.10.2021 14:29:44 | Invalid operation on a closed object
+
+07.10.2021 14:29:45 | Invalid operation on a closed object
+
+07.10.2021 14:29:46 | Invalid operation on a closed object
+
+07.10.2021 14:29:47 | Invalid operation on a closed object
+
+07.10.2021 14:29:47 | Invalid operation on a closed object
+
+07.10.2021 14:29:49 | Invalid operation on a closed object
+
+07.10.2021 14:29:49 | Invalid operation on a closed object
+
+07.10.2021 14:29:49 | Invalid operation on a closed object
+
+07.10.2021 14:29:49 | Invalid operation on a closed object
+
+07.10.2021 14:29:56 | Invalid operation on a closed object
+
+07.10.2021 14:29:57 | Invalid operation on a closed object
+
+07.10.2021 14:29:57 | Invalid operation on a closed object
+
+07.10.2021 14:29:57 | Invalid operation on a closed object
+
+07.10.2021 14:29:57 | Invalid operation on a closed object
+
+07.10.2021 14:29:57 | Invalid operation on a closed object
+
+07.10.2021 14:29:58 | Invalid operation on a closed object
+
+07.10.2021 14:31:23 | Invalid operation on a closed object
+
+07.10.2021 14:31:26 | Invalid operation on a closed object
+
+07.10.2021 14:31:27 | Invalid operation on a closed object
+
+07.10.2021 14:31:28 | Invalid operation on a closed object
+
+07.10.2021 14:31:28 | Invalid operation on a closed object
+
+07.10.2021 14:31:28 | Invalid operation on a closed object
+
+07.10.2021 14:31:28 | Invalid operation on a closed object
+
+07.10.2021 14:31:29 | Invalid operation on a closed object
+
+07.10.2021 14:31:29 | Invalid operation on a closed object
+
+07.10.2021 14:31:29 | Invalid operation on a closed object
+
+07.10.2021 14:31:29 | Invalid operation on a closed object
+
+07.10.2021 14:31:30 | Invalid operation on a closed object
+
+07.10.2021 14:31:30 | Invalid operation on a closed object
+
+01.04.2022 10:31:38 | ORA-00936: missing expression
+
